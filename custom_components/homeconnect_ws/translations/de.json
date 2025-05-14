@@ -217,6 +217,32 @@
       "sensor_delayed_shutoff_time": {
         "name": "Verzögerte Abschaltung"
       },
+      "sensor_power_state": {
+        "name": "Stromversorgung Zustand",
+        "state": {
+          "mainsoff": "Stromversorgung aus",
+          "off": "Aus",
+          "on": "Ein",
+          "standby": "Bereitschaft"
+        }
+      },
+      "sensor_door_state": {
+        "name": "Tür",
+        "state": {
+          "open": "Offen",
+          "closed": "Geschlossen",
+          "locked": "Verriegelt",
+          "ajar": "Tür angelehnt"
+        }
+      },
+      "sensor_laundry_reload": {
+        "name": "Wäsche nachladen",
+        "state": {
+          "impossible": "Nicht möglich",
+          "possiblepauseprogram": "Möglich: Programm pausieren",
+          "possibleopendoor": "Möglich: Tür öffnen"
+        }
+      },
       "sensor_laundry_process_phase": {
         "name": "Prozessphase",
         "state": {
@@ -399,32 +425,6 @@
           "laundrycare_dryer_program_timewarm_timewarm_timewarm": "Zeitprogramm warm",
           "laundrycare_dryer_program_towels_towels_towels": "Handtücher",
           "laundrycare_dryer_program_woolfinish_woolfinish_woolfinish": "Wolle Finish"
-        }
-      },
-      "sensor_power_state": {
-        "name": "Stromversorgung Zustand",
-        "state": {
-          "mainsoff": "Stromversorgung aus",
-          "off": "Aus",
-          "on": "Ein",
-          "standby": "Bereitschaft"
-        }
-      },
-      "sensor_door_state": {
-        "name": "Tür",
-        "state": {
-          "open": "Offen",
-          "closed": "Geschlossen",
-          "locked": "Verriegelt",
-          "ajar": "Tür angelehnt"
-        }
-      },
-      "sensor_laundry_reload": {
-        "name": "Wäsche nachladen",
-        "state": {
-          "impossible": "Nicht möglich",
-          "possiblepauseprogram": "Möglich: Programm pausieren",
-          "possibleopendoor": "Möglich: Tür öffnen"
         }
       },
       "select_sensitivity_turbidity": {
