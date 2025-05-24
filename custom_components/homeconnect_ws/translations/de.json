@@ -169,7 +169,7 @@
         }
       },
       "binary_sensor_lint_filter_full": {
-        "name": "Flüsenfilter",
+        "name": "Flusenfilter",
         "state": {
           "on": "Filter reinigen",
           "off": "Ok"
