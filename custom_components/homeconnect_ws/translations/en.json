@@ -408,7 +408,7 @@
         "name": "Low Voltage"
       },
       "binary_sensor_oven_alarm_clock_elapsed": {
-        "name": "Alarm Clock Elapsed
+        "name": "Alarm Clock Elapsed"
       },
       "binary_sensor_alarm_clock_elapsed": {
         "name": "Alarm Clock Elapsed"
