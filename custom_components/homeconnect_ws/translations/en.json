@@ -408,7 +408,7 @@
         "name": "Low Voltage"
       },
       "binary_sensor_oven_alarm_clock_elapsed": {
-        "name": "Alarm Clock Elapsed{group_name}"
+        "name": "Alarm Clock Elapsed
       },
       "binary_sensor_alarm_clock_elapsed": {
         "name": "Alarm Clock Elapsed"
@@ -848,7 +848,7 @@
         }
       },
       "sensor_oven_current_temperature": {
-        "name": "Current Temperature{group_name}"
+        "name": "Current Temperature
       },
       "sensor_heatup_progress": {
         "name": "Heatup progress"
