@@ -1,7 +1,7 @@
 [project]
-version = "1.0.5b10"
+version = "1.0.5b10-test"
 name = "homeconnect_ws"
-authors = [{ name = "chris-mc1" }]
+authors = [{ name = "chris-mc1 + Matze89x" }]
 description = "Home Connect Local for Homeassistant"
 readme = "README.md"
 requires-python = ">=3.14.2"
