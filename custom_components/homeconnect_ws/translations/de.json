@@ -412,7 +412,7 @@
         "name": "Niederspannung"
       },
       "binary_sensor_oven_alarm_clock_elapsed": {
-        "name": "Alarm abgelaufen{group_name}"
+        "name": "Alarm abgelaufen"
       },
 	  "binary_sensor_alarm_clock_elapsed": {
         "name": "Alarm abgelaufen"
@@ -1099,7 +1099,7 @@
         "name": "Geschätzte Verbleibende Programmlaufzeit"
       },
       "sensor_oven_water_tank": {
-        "name": "Wassertank{group_name}",
+        "name": "Wassertank",
         "state": {
           "ok": "OK",
           "empty": "Leer",
@@ -1193,7 +1193,7 @@
         "name": "Aktivkohlefilter-Sättigung"
       },
       "sensor_hob_zone_state": {
-        "name": "Zone {group_name} Status",
+        "name": "Zone  Status",
         "state": {
           "notselectable": "Nicht wählbar",
           "off": "Aus",
@@ -1202,7 +1202,7 @@
         }
       },
       "sensor_hob_zone_operationstate": {
-        "name": "Zone {group_name} Betriebszustand",
+        "name": "Zone  Betriebszustand",
         "state": {
           "inactive": "Inaktiv",
           "ready": "Bereit",
@@ -1216,7 +1216,7 @@
         }
       },
       "sensor_hob_zone_power_level": {
-        "name": "Zone {group_name} Leistungsstufe",
+        "name": "Zone  Leistungsstufe",
         "state": {
           "off": "Aus",
           "keepwarm": "Warmhalten",
@@ -1242,7 +1242,7 @@
         }
       },
       "sensor_hob_zone_frying_sensor_level": {
-        "name": "Zone {group_name} Bratsensor-Stufe",
+        "name": "Zone  Bratsensor-Stufe",
         "state": {
           "off": "Aus",
           "level01": "Stufe 1",
@@ -1264,22 +1264,22 @@
         }
       },
       "sensor_hob_zone_current_temperature": {
-        "name": "Zone {group_name} Aktuelle Temperatur"
+        "name": "Zone  Aktuelle Temperatur"
       },
       "sensor_hob_zone_heatup_progress": {
-        "name": "Zone {group_name} Aufheizfortschritt"
+        "name": "Zone  Aufheizfortschritt"
       },
       "sensor_hob_zone_duration": {
-        "name": "Zone {group_name} Timer-Einstellung"
+        "name": "Zone  Timer-Einstellung"
       },
       "sensor_hob_zone_elapsed_program_time": {
-        "name": "Zone {group_name} Verstrichene Zeit"
+        "name": "Zone  Verstrichene Zeit"
       },
       "sensor_hob_zone_remaining_program_time": {
-        "name": "Zone {group_name} Restzeit"
+        "name": "Zone  Restzeit"
       },
       "sensor_hob_zone_program_progress": {
-        "name": "Zone {group_name} Fortschritt"
+        "name": "Zone  Fortschritt"
       },
       "sensor_finish_in": {
         "name": "Fertig in"
