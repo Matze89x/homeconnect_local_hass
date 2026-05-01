@@ -17,7 +17,7 @@
     "homeconnect_websocket"
   ],
   "requirements": [
-    "homeconnect-websocket @ git+https://github.com/chris-mc1/homeconnect_websocket.git@master"
+    "homeconnect-websocket==1.5.3"
   ],
   "version": "1.0.5b10",
   "zeroconf": [
