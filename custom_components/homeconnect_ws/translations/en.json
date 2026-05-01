@@ -840,7 +840,7 @@
         "name": "Estimated total program time"
       },
       "sensor_oven_water_tank": {
-        "name": "Water Tank{group_name}",
+        "name": "Water Tank",
         "state": {
           "ok": "OK",
           "empty": "Empty",
@@ -863,7 +863,7 @@
         "name": "Carbon Filter Saturation"
       },
       "sensor_hob_zone_state": {
-        "name": "Zone {group_name} State",
+        "name": "Zone  State",
         "state": {
           "notselectable": "Not Selectable",
           "off": "Off",
@@ -872,7 +872,7 @@
         }
       },
       "sensor_hob_zone_operationstate": {
-        "name": "Zone {group_name} Operation State",
+        "name": "Zone  Operation State",
         "state": {
           "inactive": "Inactive",
           "ready": "Ready",
@@ -886,7 +886,7 @@
         }
       },
       "sensor_hob_zone_power_level": {
-        "name": "Zone {group_name} Power Level",
+        "name": "Zone  Power Level",
         "state": {
           "off": "Off",
           "keepwarm": "KeepWarm",
@@ -912,7 +912,7 @@
         }
       },
       "sensor_hob_zone_frying_sensor_level": {
-        "name": "Zone {group_name} Frying Sensor level",
+        "name": "Zone  Frying Sensor level",
         "state": {
           "off": "Off",
           "70dc": "70 °C",
@@ -929,22 +929,22 @@
         }
       },
       "sensor_hob_zone_current_temperature": {
-        "name": "Zone {group_name} Current Temperature"
+        "name": "Zone  Current Temperature"
       },
       "sensor_hob_zone_heatup_progress": {
-        "name": "Zone {group_name} Heatup Progress"
+        "name": "Zone  Heatup Progress"
       },
       "sensor_hob_zone_duration": {
-        "name": "Zone {group_name} Duration"
+        "name": "Zone  Duration"
       },
       "sensor_hob_zone_elapsed_program_time": {
-        "name": "Zone {group_name} Elapsed Program Time"
+        "name": "Zone  Elapsed Program Time"
       },
       "sensor_hob_zone_remaining_program_time": {
-        "name": "Zone {group_name} Remaining Program Time"
+        "name": "Zone  Remaining Program Time"
       },
       "sensor_hob_zone_program_progress": {
-        "name": "Zone {group_name} Program Progress"
+        "name": "Zone  Program Progress"
       },
       "sensor_count_ristretto_espresso": {
         "name": "Ristretto Espresso count"
